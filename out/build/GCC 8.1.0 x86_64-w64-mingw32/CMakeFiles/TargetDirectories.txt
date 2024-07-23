@@ -1,0 +1,3 @@
+C:/Users/mi/Desktop/pri/AI/test/wf-1/out/build/GCC 8.1.0 x86_64-w64-mingw32/CMakeFiles/test.dir
+C:/Users/mi/Desktop/pri/AI/test/wf-1/out/build/GCC 8.1.0 x86_64-w64-mingw32/CMakeFiles/edit_cache.dir
+C:/Users/mi/Desktop/pri/AI/test/wf-1/out/build/GCC 8.1.0 x86_64-w64-mingw32/CMakeFiles/rebuild_cache.dir
