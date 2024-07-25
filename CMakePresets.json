@@ -11,6 +11,7 @@
                 "CMAKE_INSTALL_PREFIX": "${sourceDir}/out/install/${presetName}",
                 "CMAKE_C_COMPILER": "C:/MinGW/bin/gcc.exe",
                 "CMAKE_CXX_COMPILER": "C:/MinGW/bin/g++.exe",
+                "CMAKE_PYTHON_COMPILER": "python3.12.exe",
                 "CMAKE_BUILD_TYPE": "Debug"
             }
         }
