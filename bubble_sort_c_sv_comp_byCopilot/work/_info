@@ -1,0 +1,70 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mi/Desktop/pri/AI/test/wf-1/bubble_sort_c_sv_comp
+T_opt
+!s110 1721901200
+VR^7n6Ea^^]Vi8Ej@7gKYG0
+04 9 4 work testbench fast 0
+=1-f0b61e450a7e-66a2208f-2f0-d24
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vbubble_sort
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1721901198
+!i10b 1
+!s100 GNQbhc]2GdcZAA=lnD<V>2
+Z4 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie<FeX0gU0?;g3;QbgBWEY2
+S1
+R0
+w1721899857
+8bubble_sort.sv
+Fbubble_sort.sv
+!i122 83
+L0 2 67
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z7 !s108 1721901198.000000
+Z8 !s107 test_params.svh|testbench.sv|bubble_sort.sv|
+Z9 !s90 bubble_sort.sv|testbench.sv|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vtestbench
+R2
+R3
+!i10b 1
+!s100 Ck4HJ1Mgk1>77b;512BVj1
+R4
+IA`I?egO8XW^M=`iYh3Znh3
+S1
+R0
+w1721900660
+8testbench.sv
+Ftestbench.sv
+!i122 83
+L0 2 90
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R1
